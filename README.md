@@ -1,2 +1,2 @@
 # Distilling-Python
-Kicking off "Distilling #Python" series for anyone #programming in Python or preparing for #techinterviews. Let's ensure deeper and clearer understanding of Python 3 fundamentals, how it works internally, other advanced and complex topics going above and beyond the basics. 
+This repo contains the code for Distilling Python series. My humble contribution for helping everyone learn Python with confidence. The explainations will be a multipart articles shared as LinkedIn and Substack newsletters. I might also plan a YouTube series going forward.
